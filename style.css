@@ -4,6 +4,7 @@
   width: 180px;
   display: flex;
   flex-wrap: wrap;
+  margin: auto;
 }
 .grid div {
   height: 20px;
